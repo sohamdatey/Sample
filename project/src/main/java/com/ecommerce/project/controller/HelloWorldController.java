@@ -10,7 +10,7 @@ public class HelloWorldController {
 
 	@RequestMapping(value = "/getString", method = RequestMethod.GET, produces = "application/json")
 	public String hello() {
-		return "{\"id\":\"1\"}";
+		return "{\"id\":\"2\"}";
 
 	}
 

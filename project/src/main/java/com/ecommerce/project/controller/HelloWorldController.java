@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = "/records")
 public class HelloWorldController {
 
-	@RequestMapping(value = "/getString", method = RequestMethod.GET, produces = "application/json")
-	public String hello() {sadjvc sadjvcasdvn 
+	@RequestMapping(value = "/gzdfvaetString", method = RequestMethod.GET, produces = "application/json")
+	public String hello2(boleean asdfn) {sadjvc sadjvcasdvn 
 
 	asdvknjabsjdv
 	 ajdfvjba 
